@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="LOGO" src="logo.png" width="256" height="256" />
+  <img alt="LOGO" src="logo_packetnte.png" width="256" height="256" />
 </div>
 
 # PacketNTE
