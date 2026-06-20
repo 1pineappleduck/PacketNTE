@@ -66,7 +66,7 @@ PacketNTE/
 
 完整 API 说明请查看：
 
-[网络坐标 API](docs/coordinate-api.md)
+[网络坐标 API](docs/coordinate-capture-api.md)
 
 该文档包含：
 
