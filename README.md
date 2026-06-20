@@ -207,7 +207,7 @@ finally:
 
 更多接口细节请查看：
 
-[网络坐标 API](docs/coordinate-api.md)
+[网络坐标 API](docs/coordinate-capture-api.md)
 
 ## 指定网卡
 
