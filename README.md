@@ -39,6 +39,10 @@ PacketNTE 不是完整源码开源项目。
 
 请勿对二进制模块进行反编译、逆向分析、破解、二次打包或未经授权的再分发。
 
+[卡巴斯基文件体检报告-nte_coordinate_api.cp312-win_amd64.pyd](https://opentip.kaspersky.com/08B50B43A5955D6A8BAE631DA43F41B97021FB66C70285EE69AB36852A8934E2/results?tab=upload)
+
+[卡巴斯基文件体检报告-pyarmor_runtime.pyd](https://opentip.kaspersky.com/5B3CF53937F07011AF79E2A13B506ED251AB32AE3C8DCACAB697235D2A70C482/results?tab=upload)
+
 ## 项目结构
 
 推荐目录结构：
@@ -348,5 +352,3 @@ PacketNTE 核心模块为私有闭源组件。
 * 修改后再发布；
 * 二次分发；
 * 用于违反平台规则的用途。
-
-具体授权方式以发布页面或作者说明为准。
